@@ -3,4 +3,4 @@
 ls
 
 cd /tmp/devops
-git pull
+sudo git pull
