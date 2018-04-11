@@ -1,4 +1,4 @@
-ls
+qls
 
 cd /tmp/devops
 sudo git pull
